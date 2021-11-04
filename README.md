@@ -3,7 +3,7 @@ SAP CAI on IOS device using simple way
 
 Created a simple XCode project using swift.
 
-![Initial Look](https://github.com/ipravir/SAP-CAI-on-IOS-Device/blob/main/Initial%20Look.png)
+![Initial Look](https://github.com/ipravir/SAP-CAI-on-IOS-Device/blob/main/intiallook.png)
 
 Added WebKit library to load a HTML page into defined UIView.
 
